@@ -2,85 +2,24 @@
     <!--[if IE 8]><html class="no-js lt-ie10 lt-ie9"> <![endif]-->
     <!--[if IE 9]><html class="no-js lt-ie10"> <![endif]-->
     <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
-        <meta charset="utf-8">
-        <title>MacBride Law</title>
-        <meta name="description" content="">
-        <meta name="author" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <!--<link rel="shortcut icon" href="images/favicon.ico"> -->
-        <link rel='stylesheet' id='Roboto-css' href='http://fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C400%2C400italic%2C700&amp;ver=4' type='text/css' media='all' />
-        <link rel='stylesheet' id='Patua+One-css' href='http://fonts.googleapis.com/css?family=Patua+One%3A100%2C300%2C400%2C400italic%2C700&amp;ver=4' type='text/css' media='all' />
 
-        <link rel='stylesheet' id='style-css' href='css/style.css' type='text/css' media='all' />
-        <link rel='stylesheet' id='local-css' href='css/lawyer.css' type='text/css' media='all' />
-        <link rel='stylesheet' id='custom-css' href='css/custom.css' type='text/css' media='all' />
-        <link rel='stylesheet' id='custom-css' href='css/skin.css' type='text/css' media='all' />
-
-        <link rel="stylesheet" href="plugins/rs-plugin/css/settings.css">
-    </head>
-
-    <body class="template-slider color-blue layout-full-width header-classic sticky-header sticky-white subheader-title-left">
+    <?= $headContent; ?>
+    <body class="template-slider color-brown layout-full-width header-classic sticky-header sticky-white subheader-title-left">
         <div id="Wrapper">
             <div id="Header_wrapper" >
                 <header id="Header">
                     <div id="Action_bar">
                         <div class="container">
                             <div class="column one">
-                                <ul class="contact_details">
-                                    <li class="phone">
-                                        <i class="icon-phone"></i><a href="tel:406-202-5839">406-202-5839</a>
-                                    </li>
-                                    <li class="mail">
-                                        <i class="icon-mail-line"></i><a href="mailto:wlm@macbridelaw.com">wlm@macbridelaw.com</a>
-                                    </li>
-                                </ul>
-                                <ul class="social">
-                                    <li class="facebook">
-                                        <a href="https://www.facebook.com/MacBrideLaw/" title="Facebook" target="_blank"><i class="icon-facebook"></i></a>
-                                    </li>
-                                    <li class="linkedin">
-                                        <a href="https://www.linkedin.com/in/william-macbride-910aa8105" title="LinkedIn" target="_blank"><i class="icon-linkedin"></i></a>
-                                    </li>
-                                    <li class="skype">
-                                        <a href="skype:bill.macbride" title="Skype" target="_blank"><i class="icon-skype"></i></a>
-                                    </li>
-                                </ul>
+                                <?= $contactDetails; ?>
+                                <?= $socialList;?>
                             </div>
                         </div>
                     </div><div class="header_placeholder"></div>
                     <div id="Top_bar">
                         <div class="container">
                             <div class="column one">
-                                <div class="top_bar_left clearfix">
-                                    <div class="logo">
-                                        <a id="logo" href="index.html" title="BeLawyer - BeTheme">
-                                            <img class="logo-main scale-with-grid" src="images/MBLogo.png" alt=""/>
-                                            <img class="logo-sticky scale-with-grid" src="images/MBLogo.png" alt="" />
-                                        </a>
-                                    </div>
-                                    <div class="menu_wrapper">
-                                        <nav id="menu">
-                                            <ul id="menu-main-menu" class="menu">
-                                                <li class=" current_page_item">
-                                                    <a href="index-lawyer.html"><span>Home</span></a>
-                                                </li>
-                                                <li>
-                                                    <a href="pages/about-us.html"><span>About us</span></a>
-                                                </li>
-                                                <li>
-                                                    <a href="pages/what-we-offer.html"><span>What we offer</span></a>
-                                                </li>
-                                                <li>
-                                                    <a href="pages/our-specialists.html"><span>Our specialists</span></a>
-                                                </li>
-                                                <li>
-                                                    <a href="pages/contact-us.html"><span>Contact us</span></a>
-                                                </li>
-                                            </ul>
-                                        </nav><a class="responsive-menu-toggle " href="#"><i class="icon-menu"></i></a>
-                                    </div>
-                                </div>
+                                <?= $navigation; ?>
                             </div>
                         </div>
                     </div>
@@ -90,11 +29,8 @@
                                 <ul>
                                     <li data-index="rs-1" data-transition="fade" data-slotamount="7" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" data-title="Slide" data-description="">
                                         <img src="images/main_header.jpg" alt="" width="1920" height="570" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-
                                         <div class="tp-caption mfnrs_lawyer tp-resizeme" id="slide-1-layer-1" data-x="center" data-hoffset="0" data-y="center" data-voffset="-200" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="y:-50px;opacity:0;s:1000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 10; min-width: auto; min-height: auto; white-space: nowrap; max-width: auto; max-height: auto; font-size: 46px; line-height: 46px; color: rgba(0, 0, 0, 1.00);font-family:'Patua One';border-color:rgba(0, 0, 0, 1.00);">
-                                            I know how to
-                                            <br />
-                                            Lawyer
+                                            <!-- Drop in text -->
                                         </div>
                                     </li>
                                 </ul><div class="tp-bannertimer tp-bottom flv_viz_hid" ></div>
@@ -360,59 +296,16 @@
                     </div>
                 </div>
             </div>
-            <footer id="Footer" class="clearfix">
-                <div class="widgets_wrapper">
-                    <div class="container">
-                        <div class="column one-third">
-                            <aside id="text-2" class="widget widget_text">
-                                <h4>Contact Us</h4>
-                                <div class="textwidget">
-                                    <span>2066 Stadium Drive, Suite 101</span><br/>
-                                    <span>Bozeman, MT 59715</span>
-                                </div>
-                            </aside>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer_copy">
-                    <div class="container">
-                        <div class="column one">
-                            <a id="back_to_top" href="#" class="button button_left button_js"><span class="button_icon"><i class="icon-up-open-big"></i></span></a>
-                            <div class="copyright">
-                                &copy; 2016 MacBride Law
-                            </div>
-                            <ul class="social">
-                                <li class="facebook">
-                                    <a href="https://www.facebook.com/MacBrideLaw/" title="Facebook" target="_blank"><i class="icon-facebook"></i></a>
-                                </li>
-                                <li class="linkedin">
-                                    <a href="https://www.linkedin.com/in/william-macbride-910aa8105" title="LinkedIn" target="_blank"><i class="icon-linkedin"></i></a>
-                                </li>
-                                <li class="skype">
-                                    <a href="skype:bill.macbride" title="Skype" target="_blank"><i class="icon-skype"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </footer>
+            <?=$footer;?>
         </div>
-
-<!-- JS
- ================================================== -->
-
-
-<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
 
 <script type="text/javascript" src="js/mfn.menu.js"></script>
 <script type="text/javascript" src="js/jquery.plugins.js"></script>
-<script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
 <script type="text/javascript" src="js/animations/animations.js"></script>
 <script type="text/javascript" src="js/scripts.js"></script>
 
 <script type="text/javascript" src="plugins/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 <script type="text/javascript" src="plugins/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-<script type="text/javascript" src="plugins/rs-plugin/js/extensions/revolution.extension.video.min.js"></script>
 <script type="text/javascript" src="plugins/rs-plugin/js/extensions/revolution.extension.slideanims.min.js"></script>
 <script type="text/javascript" src="plugins/rs-plugin/js/extensions/revolution.extension.actions.min.js"></script>
 <script type="text/javascript" src="plugins/rs-plugin/js/extensions/revolution.extension.layeranimation.min.js"></script>
