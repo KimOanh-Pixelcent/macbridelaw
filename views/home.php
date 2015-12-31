@@ -190,100 +190,6 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="column one column_divider ">
-                                            <hr class="no_line" />
-                                        </div>
-                                        <div class="column three-fourth column_column ">
-                                            <div class="column_attr " >
-                                                <h2 style="margin-bottom: 0;">Latest questions and answers</h2>
-                                            </div>
-                                        </div>
-                                        <div class="column one-fourth column_column ">
-                                            <div class="column_attr " >
-                                                <h2 style="margin-bottom: 0;">Specialist</h2>
-                                            </div>
-                                        </div>
-                                        <div class="column three-fourth column_faq ">
-                                            <div class="faq">
-                                                <div class="mfn-acc faq_wrapper open1st">
-                                                    <div class="question">
-                                                        <div class="title">
-                                                            <span class="num">1</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Sed est elit, posuere ac semper at, hendrerit a neque
-                                                        </div>
-                                                        <div class="answer">
-                                                            <div class="big"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce velit tortor, dictum in gravida nec, aliquet non lorem. </p></div>
-                                                            <p>
-                                                                Donec vestibulum justo a diam ultricies pellentesque. Quisque mattis diam vel lacus tincidunt elementum. Sed vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor. In iaculis viverra neque, ac eleifend ante lobortis id. In viverra ipsum ac eros tristique dignissim. Donec aliquam velit vitae mi dictum.
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="question">
-                                                        <div class="title">
-                                                            <span class="num">2</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Sed est elit, posuere ac semper at, hendrerit a neque
-                                                        </div>
-                                                        <div class="answer">
-                                                            <div class="big"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce velit tortor, dictum in gravida nec, aliquet non lorem. </p></div>
-                                                            <p>
-                                                                Donec vestibulum justo a diam ultricies pellentesque. Quisque mattis diam vel lacus tincidunt elementum. Sed vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor. In iaculis viverra neque, ac eleifend ante lobortis id. In viverra ipsum ac eros tristique dignissim. Donec aliquam velit vitae mi dictum.
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="question">
-                                                        <div class="title">
-                                                            <span class="num">3</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Sed est elit, posuere ac semper at, hendrerit a neque
-                                                        </div>
-                                                        <div class="answer">
-                                                            <div class="big"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce velit tortor, dictum in gravida nec, aliquet non lorem. </p></div>
-                                                            <p>
-                                                                Donec vestibulum justo a diam ultricies pellentesque. Quisque mattis diam vel lacus tincidunt elementum. Sed vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor. In iaculis viverra neque, ac eleifend ante lobortis id. In viverra ipsum ac eros tristique dignissim. Donec aliquam velit vitae mi dictum.
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="question">
-                                                        <div class="title">
-                                                            <span class="num">4</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Sed est elit, posuere ac semper at, hendrerit a neque
-                                                        </div>
-                                                        <div class="answer">
-                                                            <div class="big"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce velit tortor, dictum in gravida nec, aliquet non lorem. </p></div>
-                                                            <p>
-                                                                Donec vestibulum justo a diam ultricies pellentesque. Quisque mattis diam vel lacus tincidunt elementum. Sed vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor. In iaculis viverra neque, ac eleifend ante lobortis id. In viverra ipsum ac eros tristique dignissim. Donec aliquam velit vitae mi dictum.
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="question">
-                                                        <div class="title">
-                                                            <span class="num">5</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Sed est elit, posuere ac semper at, hendrerit a neque
-                                                        </div>
-                                                        <div class="answer">
-                                                            <div class="big"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce velit tortor, dictum in gravida nec, aliquet non lorem. </p></div>
-                                                            <p>
-                                                                Donec vestibulum justo a diam ultricies pellentesque. Quisque mattis diam vel lacus tincidunt elementum. Sed vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor. In iaculis viverra neque, ac eleifend ante lobortis id. In viverra ipsum ac eros tristique dignissim. Donec aliquam velit vitae mi dictum.
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="column one-fourth column_our_team ">
-                                            <div class="team team_vertical">
-                                                <div class="image_frame no_link scale-with-grid">
-                                                    <div class="image_wrapper"><img class="scale-with-grid" src="images/home_lawyer_specialist.jpg" alt="Scott Adams" />
-                                                </div>
-                                                </div>
-                                                <div class="desc_wrapper">
-                                                    <h4>Scott Adams</h4>
-                                                    <p class="subtitle">
-                                                        Lawyer
-                                                    </p>
-                                                    <hr class="hr_color" />
-                                                    <div class="desc">
-                                                        Vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor.
-                                                    </div>
-                                                    <div class="links">
-                                                        <a href="mailto:noreply@envato.com" class="icon_bar icon_bar_small"><span class="t"><i class="icon-mail"></i></span><span class="b"><i class="icon-mail"></i></span></a><a target="_blank" href="http://facebook.com/" class="icon_bar icon_bar_small"><span class="t"><i class="icon-facebook"></i></span><span class="b"><i class="icon-facebook"></i></span></a><a target="_blank" href="http://twitter.com/" class="icon_bar icon_bar_small"><span class="t"><i class="icon-twitter"></i></span><span class="b"><i class="icon-twitter"></i></span></a><a target="_blank" href="http://www.linkedin.com/" class="icon_bar icon_bar_small"><span class="t"><i class="icon-linkedin"></i></span><span class="b"><i class="icon-linkedin"></i></span></a>                                                  </div>
-                                                </div>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -341,7 +247,7 @@
                     }
                 },
                 gridwidth : 1180,
-                gridheight : 570,
+                gridheight : 330,
                 lazyType : "none",
                 shadow : 0,
                 spinner : "spinner3",

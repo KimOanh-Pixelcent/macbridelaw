@@ -22,7 +22,7 @@ $contactClass = $selectedTab === 'contact' ? 'current_page_item' : '';
                     <a href="/about"><span>About us</span></a>
                 </li>
                 <li class="<?=$offerClass;?>">
-                    <a href="/what-we-offer"><span>What we offer</span></a>
+                    <a href="/offer"><span>What we offer</span></a>
                 </li>
                 <li class="<?=$contactClass;?>">
                     <a href="/contact"><span>Contact us</span></a>
