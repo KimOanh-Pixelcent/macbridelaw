@@ -3,7 +3,7 @@
 		<div class="items_group clearfix">
 			<div class="column one column_column ">
 				<div class="column_attr align_center" >
-					<h3 style="margin: 0 6%;">Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit.</h3>
+					<h3 style="margin: 0 6%;">MacBride Law focuses on the needs of our clients while advising them on every aspect of their project. </h3>
 				</div>
 			</div>
 			<div class="column one column_divider ">
@@ -18,7 +18,7 @@
 			<div class="column three-fourth column_column ">
 				<div class="column_attr " >
 					<div style="border-left: 1px solid #ccc; margin-left: 4%; padding: 0px 0px 0px 7%;">
-						<h3>Quisque cursus</h3>
+						<h3>Intellectual Property</h3>
 						<p class="big">
 							Pellentesque eget, bibendum a, gravida ullamcorper quam. Nullam viverra consectetuer. Quisque cursus et, porttitor risus. Aliquam sem. In hendrerit nulla quam nunc, accumsan congue. Lorem ipsum primis in nibh vel risus. Sed vel lectus. Ut sagittis, ipsum quam.
 						</p>
@@ -40,7 +40,7 @@
 			<div class="column three-fourth column_column ">
 				<div class="column_attr " >
 					<div style="border-left: 1px solid #ccc; margin-left: 4%; padding: 0px 0px 0px 7%;">
-						<h3>Sed in faucibus</h3>
+						<h3>Natural Resources</h3>
 						<p class="big">
 							Aliquam consequat nunc. Etiam mollis luctus diam. Suspendisse est eu venenatis vitae, faucibus orci et odio. Donec sodales nulla. Suspendisse orci diam, tincidunt enim. Phasellus purus. Aliquam interdum ligula ut felis. Cum sociis natoque penatibus et interdum viverra. Cras tortor metus wisi, mollis nulla erat ornare facilisis risus.
 						</p>
@@ -62,7 +62,7 @@
 			<div class="column three-fourth column_column ">
 				<div class="column_attr " >
 					<div style="border-left: 1px solid #ccc; margin-left: 4%; padding: 0px 0px 0px 7%;">
-						<h3>Integer ultricies</h3>
+						<h3>Immigration</h3>
 						<p class="big">
 							Mauris ut sapien magna orci lorem sapien, lacinia lacus. Nullam risus velit, scelerisque iaculis. In hac habitasse platea dictumst. Quisque eu lectus. Curabitur commodo. Curabitur urna fringilla orci. Sed nibh. Morbi feugiat lectus nulla eu condimentum eget, nunc. Fusce ullamcorper ac, molestie venenatis consequat. Curabitur ut metus.
 						</p>
@@ -84,7 +84,7 @@
 			<div class="column three-fourth column_column ">
 				<div class="column_attr " >
 					<div style="border-left: 1px solid #ccc; margin-left: 4%; padding: 0px 0px 0px 7%;">
-						<h3>Curabitus in elit</h3>
+						<h3>Real Estate</h3>
 						<p class="big">
 							Nam hendrerit. Maecenas in faucibus a, gravida non, dictum libero, consectetuer lobortis magna blandit quam purus, dictum sed, eros. Morbi id purus. Aliquam erat volutpat. Nullam vulputate tempor posuere, nibh placerat nisl ac elit porttitor vel, ornare dolor nunc, at ante.
 						</p>

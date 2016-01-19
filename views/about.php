@@ -13,7 +13,7 @@
                         </div>
                     </div>
                     <hr class="no_line hrmargin_b_20" />
-                    <h2 style="color: #5F3923;">Am nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent</p>
+                    <h2 style="color: #5F3923;"> Mr. MacBride concentrates his practice in business organization, natural resources, real property, intellectual property (copyrights, trademarks and patents), and business immigration laws.</p>
                 </div>
             </div>
         </div>
@@ -25,9 +25,9 @@
             <div class="column one-second column_column ">
                 <div class="column_attr " >
                     <div style="padding: 30px 6% 0px; border-right: 1px solid #ccc;">
-                        <h2>Class aptent taciti
+                        <h2>Meet our lead attorney,
                         <br>
-                        socios litora torquent per</h2>
+                        Mr. Bill MacBride</h2>
                         <hr class="no_line hrmargin_b_40" />
                         <div class="column one-second">
                             <div class="image_frame no_link scale-with-grid alignnone no_border" >
@@ -35,16 +35,10 @@
                                 </div>
                             </div>
                             <hr class="no_line hrmargin_b_20" />
-                            <p class="big">
-                                Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim. Telis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat velit.
-                            </p>
                         </div>
                         <div class="column one-second">
                             <p class="big">
-                                Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
-                            </p>
-                            <p class="big">
-                                Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam.
+                                Prior to founding MacBride Law, Mr. MacBride spend 22 years as a partner at the Helena, MT based firm Gough, Shanahan, Johnson and Waterman. Bill represented Gold Fields Mining Company, Denver, Colorado, as a corporate counsel. He brought to that company his 11 years of experience as a petroleum geologist, primarily with Pennzoil Company. He believes that his corporate and practical background is invaluable in providing effective representation to its clients.
                             </p>
                         </div>
                         <hr class="no_line hrmargin_b_1" />
@@ -54,21 +48,18 @@
             <div class="column one-second column_column ">
                 <div class="column_attr " >
                     <div style="padding: 30px 6% 0px;">
-                        <h2>Etiam pharetra erat
+                        <h2>Mr. MacBride has
                         <br />
-                        fermen tum feugiat velit</h2>
+                        40 years of experience</h2>
                         <hr class="no_line hrmargin_b_40" />
                         <div class="column one-second">
                             <p class="big">
-                                Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo.
-                            </p>
-                            <p class="big">
-                                Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque.
+                                Bill has authored or co-authored articles for various seminars and publications (in business, intellectual property, Chinese mineral resources, environmental and patent laws). He has taught environmental, natural resources and business law for the Community College of Aurora (Colorado) (1991-94), the University of Denver Graduate Studies Program (1993), the University of Montana-Helena, formerly the Helena College of Technology and Montana Tech, respectively. Between 1996-1998 he organized and presented programs on mineral economic evaluation and mineral interest tenure before the Chinese Ministry of Geology and Mineral Resources in Helena and Beijing.
                             </p>
                         </div>
                         <div class="column one-second">
                             <p class="big">
-                                Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.
+                                Bill is a member of the Colorado and Montana Bar Associations; Rocky Mountain Mineral Law Foundation and Rotary International. He was a co-founder of the City of Helena International Affairs Council and is on the board of the Montana Center for International Visitors, the Grant-Kohrs Ranch Foundation, and the University of Helena-Montana Foundation Board.
                             </p>
                         </div>
                     </div>
