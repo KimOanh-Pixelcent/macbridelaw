@@ -20,10 +20,12 @@
 					<div style="border-left: 1px solid #ccc; margin-left: 4%; padding: 0px 0px 0px 7%;">
 						<h3>Intellectual Property</h3>
 						<p class="big">
-							Pellentesque eget, bibendum a, gravida ullamcorper quam. Nullam viverra consectetuer. Quisque cursus et, porttitor risus. Aliquam sem. In hendrerit nulla quam nunc, accumsan congue. Lorem ipsum primis in nibh vel risus. Sed vel lectus. Ut sagittis, ipsum quam.
+							Copyright, patent, and trademark prosecution and other matters.
 						</p>
 						<p style="color: #ababab;">
-							Aliquam erat ac ipsum. Integer aliquam purus. Quisque lorem tortor fringilla sed, vestibulum id, eleifend justo vel bibendum sapien massa ac turpis faucibus orci luctus non, consectetuer lobortis quis, varius in, purus. Integer ultrices posuere cubilia Curae, Nulla ipsum dolor lacus, suscipit adis.
+							I handle copyright, patent, and trademark (state and federal) prosecutions, assignments, and licensing. I am a licensed patent attorney,
+							practicing in mechanical inventions generally. As well, I work with new business development in these areas of intellectual property
+							protection. Licensed patent attorney.
 						</p>
 					</div>
 				</div>
@@ -42,10 +44,11 @@
 					<div style="border-left: 1px solid #ccc; margin-left: 4%; padding: 0px 0px 0px 7%;">
 						<h3>Natural Resources</h3>
 						<p class="big">
-							Aliquam consequat nunc. Etiam mollis luctus diam. Suspendisse est eu venenatis vitae, faucibus orci et odio. Donec sodales nulla. Suspendisse orci diam, tincidunt enim. Phasellus purus. Aliquam interdum ligula ut felis. Cum sociis natoque penatibus et interdum viverra. Cras tortor metus wisi, mollis nulla erat ornare facilisis risus.
+							Mining law claim and mineral transactions. Oil and gas lease review.
 						</p>
 						<p style="color: #ababab;">
-							Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue.
+							I handle mining and oil and gas matters for individuals and companies, particularly with regard to mining claim and mineral transactions
+							(leasing, joint ventures), natural resource leases and conveyances. Member Rocky Mountain Mineral Law Foundation.
 						</p>
 					</div>
 				</div>
@@ -64,10 +67,11 @@
 					<div style="border-left: 1px solid #ccc; margin-left: 4%; padding: 0px 0px 0px 7%;">
 						<h3>Immigration</h3>
 						<p class="big">
-							Mauris ut sapien magna orci lorem sapien, lacinia lacus. Nullam risus velit, scelerisque iaculis. In hac habitasse platea dictumst. Quisque eu lectus. Curabitur commodo. Curabitur urna fringilla orci. Sed nibh. Morbi feugiat lectus nulla eu condimentum eget, nunc. Fusce ullamcorper ac, molestie venenatis consequat. Curabitur ut metus.
+							Family and business immigration and non-immigrant matters.
 						</p>
 						<p style="color: #ababab;">
-							Aliquam erat ac ipsum. Integer aliquam purus. Quisque lorem tortor fringilla sed, vestibulum id, eleifend justo vel bibendum sapien massa ac turpis faucibus orci luctus non, consectetuer lobortis quis, varius in, purus. Integer ultrices posuere cubilia Curae, Nulla ipsum dolor lacus, suscipit adis.
+							I handle non-immigrant visa applications and immigrant visa (green card) petitions and applications for family and business situations, as well
+							as citizenship applications. Member of the American Immigration Lawyers Association.
 						</p>
 					</div>
 				</div>
@@ -86,10 +90,10 @@
 					<div style="border-left: 1px solid #ccc; margin-left: 4%; padding: 0px 0px 0px 7%;">
 						<h3>Real Estate</h3>
 						<p class="big">
-							Nam hendrerit. Maecenas in faucibus a, gravida non, dictum libero, consectetuer lobortis magna blandit quam purus, dictum sed, eros. Morbi id purus. Aliquam erat volutpat. Nullam vulputate tempor posuere, nibh placerat nisl ac elit porttitor vel, ornare dolor nunc, at ante.
+							Property conveyances and other related matters.
 						</p>
 						<p style="color: #ababab;">
-							Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue.
+							I handle real estate transactions, including residential and land conveyances and closings, easements and related matters.
 						</p>
 					</div>
 				</div>

@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8">
     <title>MacBride Law <?= $title;?></title>
-    <meta name="description" content="">
+    <meta name="description" content="Lawyer specializing in immigration green card patents trademarks mining minerals oil and gas">
     <meta name="author" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!--<link rel="shortcut icon" href="images/favicon.ico"> -->
