@@ -9,6 +9,9 @@
 						<br />
 						Bozeman, MT 59715
 					</p>
+					<p style="font-weight: bold;">
+						Available by appointment
+					</p>
 					<table>
 						<tr>
 							<td>Mon-Fri</td><td><b>9:00</b> a.m.</td><td><b>5:00</b> p.m.</td>
@@ -56,14 +59,12 @@
 			</div>
 			<div class="column one-fourth column_column ">
 				<div class="column_attr " >
-					<h3>You are welcome</h4>
+					<h3>Contact Us</h4>
 					<p class="big">
-						Curabitur et ligula. Ut molestie a, ultricies porta urna. Vestibulum commodo volutpat a, convallis ac, laoreet enim. Phasellus fermentum
-						in, dolor. Pellentesque facilisis.
-					</p>
-					<p>
-						Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Mauris in erat justo. Nullam ac urna eu felis
-						dapibus condimentum sit amet a augue. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
+						Please fill out our form to contact us. Mr. MacBride will be in touch at his earliest convenience. At that time,
+						we look forward to discussing your needs and assessing how we can best help you. MacBride Law encourages all
+						potential clients to schedule a consultation or phone conversation with Mr. MacBride in order to determine the best
+						course of action for your needs.
 					</p>
 				</div>
 			</div>
@@ -75,7 +76,7 @@
 		<div class="items_group clearfix">
 			<div class="column one column_column ">
 				<div class="column_attr align_center" >
-					<h2 style="margin: 0; color: #2991d6;">Call us 406-202-5839</h2>
+					<h2 style="margin: 0; color: #2991d6;">Call us 406-577-2777</h2>
 				</div>
 			</div>
 		</div>

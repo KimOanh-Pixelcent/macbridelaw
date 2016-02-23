@@ -8,10 +8,6 @@
             </div>
             <div class="column two-third column_column ">
                 <div class="column_attr align_center" >
-                    <div class="image_frame no_link scale-with-grid alignnone no_border" >
-                        <div class="image_wrapper"><img class="scale-with-grid" src="images/home_lawyer_about.png" alt=""/>
-                        </div>
-                    </div>
                     <hr class="no_line hrmargin_b_20" />
                     <h2 style="color: #5F3923;">
                         Mr. MacBride concentrates his practice in business organization, natural resources, real property, intellectual
@@ -34,7 +30,7 @@
                         <hr class="no_line hrmargin_b_40" />
                         <div class="column one-second">
                             <div class="image_frame no_link scale-with-grid alignnone no_border" >
-                                <div class="image_wrapper"><img class="scale-with-grid" src="images/home_lawyer_specialist.jpg" alt=""/>
+                                <div class="image_wrapper"><img class="scale-with-grid" src="images/BillMacBride.jpg" alt=""/>
                                 </div>
                             </div>
                             <hr class="no_line hrmargin_b_20" />
@@ -56,7 +52,7 @@
                     <div style="padding: 30px 6% 0px;">
                         <h2>Mr. MacBride has
                         <br />
-                        40 years of experience</h2>
+                        30 years of legal experience</h2>
                         <hr class="no_line hrmargin_b_40" />
                         <div class="column one-second">
                             <p class="big">
@@ -72,6 +68,10 @@
                                 Bill is a member of the Colorado and Montana Bar Associations; Rocky Mountain Mineral Law Foundation and Rotary International. He
                                 was a co-founder of the City of Helena International Affairs Council and is on the board of the Montana Center for International
                                 Visitors, the Grant-Kohrs Ranch Foundation, and the University of Helena-Montana Foundation Board.
+                                <br/>
+                                <br/>
+                                Past clients include: Gold Fields Mining, Peabody Coal Company, Natural Solutions, Montana Hydraulics, Montana Emergent Technologies,
+                                Newmont Mining, E.K. Lehmann & Assoc., Gallant Natural Resources, CX Ranch, Tempest Technologies, and Vilicus Farms.
                             </p>
                         </div>
                     </div>

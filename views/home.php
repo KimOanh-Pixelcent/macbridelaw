@@ -48,48 +48,34 @@
                                     <div class="items_group clearfix">
                                         <div class="column one column_fancy_heading ">
                                             <div class="fancy_heading fancy_heading_icon">
-                                                <h2 class="title">We offer you more than just
+                                                <h2 class="title">Montana's leading legal expert in
                                                 <br />
-                                                a typical law firm</h2>
+                                                business, immigration, real estate and natural resource law. </h2>
                                             </div>
                                         </div>
-                                        <div class="column one-third column_list ">
+                                        <div class="column one-second column_list ">
                                             <div class="list_item lists_2 clearfix">
                                                 <div class="animate" data-anim-type="fadeInLeft">
-                                                    <div class="list_left list_image"><img src="images/home_lawyer_list_1.png" alt="Legal help" class="scale-with-grid" />
+                                                    <div class="list_left list_image"><img src="images/icons/intellectualproperty.png" alt="Intellectual Property" class="scale-with-grid" />
                                                 </div>
                                                     <div class="list_right">
-                                                        <h4>Legal help</h4>
+                                                        <h4>Intellectual Property</h4>
                                                         <div class="desc">
-                                                            Vitae adipiscing turpis. Aenean ligula nibh in, molestie id viverra a, dapibus at dolor.
+                                                            Copyright, patent, and trademark prosecution and other matters.
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="column one-third column_list ">
+                                        <div class="column one-second column_list ">
                                             <div class="list_item lists_2 clearfix">
                                                 <div class="animate" data-anim-type="fadeInDown">
-                                                    <div class="list_left list_image"><img src="images/home_lawyer_list_2.png" alt="Fiscal advising" class="scale-with-grid" />
+                                                    <div class="list_left list_image"><img src="images/icons/naturalresources.png" alt="Natural Resources" class="scale-with-grid" />
                                                 </div>
                                                     <div class="list_right">
-                                                        <h4>Fiscal advising</h4>
+                                                        <h4>Natural Resources</h4>
                                                         <div class="desc">
-                                                            Vitae adipiscing turpis. Aenean ligula nibh in, molestie id viverra a, dapibus at dolor.
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="column one-third column_list ">
-                                            <div class="list_item lists_2 clearfix">
-                                                <div class="animate" data-anim-type="fadeInRight">
-                                                    <div class="list_left list_image"><img src="images/home_lawyer_list_3.png" alt="Qualified protection" class="scale-with-grid" />
-                                                </div>
-                                                    <div class="list_right">
-                                                        <h4>Qualified protection</h4>
-                                                        <div class="desc">
-                                                            Vitae adipiscing turpis. Aenean ligula nibh in, molestie id viverra a, dapibus at dolor.
+                                                            Mining law claim and mineral transactions. Oil and gas lease review.
                                                         </div>
                                                     </div>
                                                 </div>
@@ -98,95 +84,31 @@
                                         <div class="column one column_divider ">
                                             <hr class="no_line" />
                                         </div>
-                                        <div class="column one-third column_list ">
-                                            <div class="list_item lists_2 clearfix">
-                                                <div class="animate" data-anim-type="fadeInLeft">
-                                                    <div class="list_left list_image"><img src="images/home_lawyer_4.png" alt="Financial advising" class="scale-with-grid" />
-                                                </div>
-                                                    <div class="list_right">
-                                                        <h4>Financial advising</h4>
-                                                        <div class="desc">
-                                                            Vitae adipiscing turpis. Aenean ligula nibh in, molestie id viverra a, dapibus at dolor.
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="column one-third column_list ">
-                                            <div class="list_item lists_2 clearfix">
-                                                <div class="animate" data-anim-type="fadeInUp">
-                                                    <div class="list_left list_image"><img src="images/home_lawyer_5.png" alt="Vindication" class="scale-with-grid" />
-                                                </div>
-                                                    <div class="list_right">
-                                                        <h4>Vindication</h4>
-                                                        <div class="desc">
-                                                            Vitae adipiscing turpis. Aenean ligula nibh in, molestie id viverra a, dapibus at dolor.
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="column one-third column_list ">
+                                        <div class="column one-second column_list ">
                                             <div class="list_item lists_2 clearfix">
                                                 <div class="animate" data-anim-type="fadeInRight">
-                                                    <div class="list_left list_image"><img src="images/home_lawyer_6.png" alt="10 years of experience" class="scale-with-grid" />
+                                                    <div class="list_left list_image"><img src="images/icons/immigration.png" alt="Immigration" class="scale-with-grid" />
                                                 </div>
                                                     <div class="list_right">
-                                                        <h4>10 years of experience</h4>
+                                                        <h4>Immigration</h4>
                                                         <div class="desc">
-                                                            Vitae adipiscing turpis. Aenean ligula nibh in, molestie id viverra a, dapibus at dolor.
+                                                            Family and business immigration and non-immigrant matters.
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="section sections_style_3" >
-                                <div class="section_wrapper clearfix">
-                                    <div class="items_group clearfix">
-                                        <div class="column one-second column_column ">
-                                            <div class="column_attr animate" data-anim-type="zoomInLeft">
-                                                <h2 class="hrmargin_b_30">About us</h2>
-                                                <div class="image_frame no_link scale-with-grid alignleft no_border" >
-                                                    <div class="image_wrapper"><img class="scale-with-grid" src="images/home_lawyer_about.png" alt=""/>
+                                        <div class="column one-second column_list ">
+                                            <div class="list_item lists_2 clearfix">
+                                                <div class="animate" data-anim-type="fadeInLeft">
+                                                    <div class="list_left list_image"><img src="images/icons/realestate.png" alt="Real Estate" class="scale-with-grid" />
                                                 </div>
-                                                </div>
-
-                                                    <div class="big"><p style="font-weight: bold;">Vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor. In iaculis viverra neque, ac eleifend ante lobortis id. In viverra ipsum ac eros tristique dignissim. Donec aliquam velit vitae mi dictum.</p></div>
-                                                <p>
-                                                    Vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor. In iaculis viverra neque, ac eleifend ante lobortis id. In viverra ipsum ac eros tristique dignissim. Donec aliquam velit vitae mi dictum. Vitae adipc aliquam velit vitae mi dictum.                                             </p>
-                                            </div>
-                                        </div>
-                                        <div class="column one-second column_column ">
-                                            <div class="column_attr animate" data-anim-type="zoomInRight">
-                                                <h2 class="hrmargin_b_30">Popular information</h2>
-                                                <div class="column one-second" style="margin-bottom: 0;">
-                                                    <ul class="list_idea">
-                                                        <li>
-                                                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-                                                        </li>
-                                                        <li>
-                                                            Aliquam tincidunt cons ectetuer mauris eu risus
-                                                        </li>
-                                                        <li>
-                                                            Vestibulum auctor dapibus conneque
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                                <div class="column one-second" style="margin-bottom: 0;">
-                                                    <ul class="list_idea">
-                                                        <li>
-                                                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-                                                        </li>
-                                                        <li>
-                                                            Aliquam tincidunt cons ectetuer mauris eu risus
-                                                        </li>
-                                                        <li>
-                                                            Vestibulum auctor dapibus conneque
-                                                        </li>
-                                                    </ul>
+                                                    <div class="list_right">
+                                                        <h4>Real Estate</h4>
+                                                        <div class="desc">
+                                                            Property conveyances and other related matters.
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -205,20 +127,11 @@
             <?=$footer;?>
         </div>
 
-<script type="text/javascript" src="js/mfn.menu.js"></script>
 <script type="text/javascript" src="js/jquery.plugins.js"></script>
-<script type="text/javascript" src="js/animations/animations.js"></script>
-<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="js/animations/animations.min.js"></script>
 
 <script type="text/javascript" src="plugins/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 <script type="text/javascript" src="plugins/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-<script type="text/javascript" src="plugins/rs-plugin/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script type="text/javascript" src="plugins/rs-plugin/js/extensions/revolution.extension.actions.min.js"></script>
-<script type="text/javascript" src="plugins/rs-plugin/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script type="text/javascript" src="plugins/rs-plugin/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script type="text/javascript" src="plugins/rs-plugin/js/extensions/revolution.extension.navigation.min.js"></script>
-<script type="text/javascript" src="plugins/rs-plugin/js/extensions/revolution.extension.migration.min.js"></script>
-<script type="text/javascript" src="plugins/rs-plugin/js/extensions/revolution.extension.parallax.min.js"></script>
 
 <script type="text/javascript">
     var tpj = jQuery;
@@ -272,8 +185,5 @@
         }
     });
 </script>
-
-
-
 </body>
 </html>

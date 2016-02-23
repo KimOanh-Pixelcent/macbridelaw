@@ -4,7 +4,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <?= $headContent; ?>
     <body class="page <?=$pageType;?> page-template-default color-custom layout-full-width no-content-padding header-classic sticky-header sticky-white subheader-both-center">
-        <div id="Wrapper">
+        <div id="Wrapper" class="<?=$selectedTab;?>">
             <div id="Header_wrapper" >
                 <header id="Header">
                     <div id="Action_bar">
@@ -42,9 +42,5 @@
             </div>
             <?=$footer;?>
         </div>
-        <script type="text/javascript" src="js/mfn.menu.js"></script>
-        <script type="text/javascript" src="js/jquery.plugins.js"></script>
-        <script type="text/javascript" src="js/animations/animations.js"></script>
-        <script type="text/javascript" src="js/scripts.js"></script>
     </body>
 </html>

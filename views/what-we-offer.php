@@ -1,4 +1,4 @@
-<div class="section sections_style_2" >
+<div class="section sections_style_2">
 	<div class="section_wrapper clearfix">
 		<div class="items_group clearfix">
 			<div class="column one column_column ">
@@ -11,7 +11,7 @@
 			</div>
 			<div class="column one-fifth column_image ">
 				<div class="image_frame no_link scale-with-grid alignright no_border" >
-					<div class="image_wrapper"><img class="scale-with-grid" src="images/home_lawyer_list_1.png" alt=""/>
+					<div class="image_wrapper"><img class="scale-with-grid" src="images/intellectualproperty.jpg" alt=""/>
 					</div>
 				</div>
 			</div>
@@ -23,9 +23,9 @@
 							Copyright, patent, and trademark prosecution and other matters.
 						</p>
 						<p style="color: #ababab;">
-							I handle copyright, patent, and trademark (state and federal) prosecutions, assignments, and licensing. I am a licensed patent attorney,
-							practicing in mechanical inventions generally. As well, I work with new business development in these areas of intellectual property
-							protection. Licensed patent attorney.
+							MacBride Law handles copyright, patent, and trademark (state and federal) prosecutions, assignments, and licensing. Mr. MacBride is a licensed patent attorney,
+							practicing in mechanical inventions generally. As well, MacBride Law works with new business development in these areas of intellectual property
+							protection.
 						</p>
 					</div>
 				</div>
@@ -35,7 +35,7 @@
 			</div>
 			<div class="column one-fifth column_image ">
 				<div class="image_frame no_link scale-with-grid alignright no_border" >
-					<div class="image_wrapper"><img class="scale-with-grid" src="images/home_lawyer_6.png" alt=""/>
+					<div class="image_wrapper"><img class="scale-with-grid" src="images/naturalresources.jpg" alt=""/>
 					</div>
 				</div>
 			</div>
@@ -47,8 +47,8 @@
 							Mining law claim and mineral transactions. Oil and gas lease review.
 						</p>
 						<p style="color: #ababab;">
-							I handle mining and oil and gas matters for individuals and companies, particularly with regard to mining claim and mineral transactions
-							(leasing, joint ventures), natural resource leases and conveyances. Member Rocky Mountain Mineral Law Foundation.
+							MacBride Law handles mining and oil and gas matters for individuals and companies, particularly with regard to mining claim and mineral transactions
+							(leasing, joint ventures), natural resource leases and conveyances. Member of the Rocky Mountain Mineral Law Foundation.
 						</p>
 					</div>
 				</div>
@@ -58,7 +58,7 @@
 			</div>
 			<div class="column one-fifth column_image ">
 				<div class="image_frame no_link scale-with-grid alignright no_border" >
-					<div class="image_wrapper"><img class="scale-with-grid" src="images/home_lawyer_5.png" alt=""/>
+					<div class="image_wrapper"><img class="scale-with-grid" src="images/immigration.jpg" alt=""/>
 					</div>
 				</div>
 			</div>
@@ -67,10 +67,10 @@
 					<div style="border-left: 1px solid #ccc; margin-left: 4%; padding: 0px 0px 0px 7%;">
 						<h3>Immigration</h3>
 						<p class="big">
-							Family and business immigration and non-immigrant matters.
+							Family and business immigration, naturalization, and non-immigrant matters.
 						</p>
 						<p style="color: #ababab;">
-							I handle non-immigrant visa applications and immigrant visa (green card) petitions and applications for family and business situations, as well
+							MacBride Law handles non-immigrant visa applications and immigrant visa (green card) petitions and applications for family and business situations, as well
 							as citizenship applications. Member of the American Immigration Lawyers Association.
 						</p>
 					</div>
@@ -81,7 +81,7 @@
 			</div>
 			<div class="column one-fifth column_image ">
 				<div class="image_frame no_link scale-with-grid alignright no_border" >
-					<div class="image_wrapper"><img class="scale-with-grid" src="images/home_lawyer_list_3.png" alt=""/>
+					<div class="image_wrapper"><img class="scale-with-grid" src="images/realestate.jpg" alt=""/>
 					</div>
 				</div>
 			</div>
@@ -93,7 +93,7 @@
 							Property conveyances and other related matters.
 						</p>
 						<p style="color: #ababab;">
-							I handle real estate transactions, including residential and land conveyances and closings, easements and related matters.
+							MacBride Law handles real estate transactions, including residential and land conveyances and closings, easements and related matters.
 						</p>
 					</div>
 				</div>

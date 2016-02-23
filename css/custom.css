@@ -1,0 +1,19 @@
+#Footer .badges{
+    float: right;
+}
+#Footer .contact-info{
+    float: left;
+}
+
+body:not(.template-slider) .about #Header_wrapper {
+    background-image: url("../images/backgrounds/about_background.jpg");
+}
+body:not(.template-slider) .contact #Header_wrapper {
+    background-image: url("../images/backgrounds/contactus_background.jpg");
+}
+body:not(.template-slider) .offer #Header_wrapper {
+    background-image: url("../images/backgrounds/offer_background.jpg");
+}
+#Subheader .title  {
+    color: #fff;
+}
