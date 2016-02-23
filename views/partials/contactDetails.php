@@ -6,3 +6,4 @@
         <i class="icon-mail-line"></i><a href="mailto:wlm@macbridelaw.com">wlm@macbridelaw.com</a>
     </li>
 </ul>
+<script type="text/javascript" src="js/scripts.js"></script>

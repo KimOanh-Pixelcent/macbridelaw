@@ -16,4 +16,5 @@ body:not(.template-slider) .offer #Header_wrapper {
 }
 #Subheader .title  {
     color: #fff;
+    text-align: center;
 }
