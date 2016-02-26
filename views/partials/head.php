@@ -11,5 +11,6 @@
     <link rel='stylesheet' id='style-css' href='css/style.css' type='text/css' media='all' />
     <link rel='stylesheet' id='local-css' href='css/lawyer.css' type='text/css' media='all' />
     <link rel='stylesheet' id='custom-css' href='css/custom.css' type='text/css' media='all' />
+    <link rel="stylesheet" href="plugins/rs-plugin/css/settings.css">
     <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
 </head>
