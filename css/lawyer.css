@@ -92,13 +92,9 @@ a:hover {
 }
 
 /* Headings font */
-h1, h1 a, h1 a:hover, .text-logo #logo { color: #444444; }
-h2, h2 a, h2 a:hover { color: #444444; }
-h3, h3 a, h3 a:hover { color: #444444; }
-h4, h4 a, h4 a:hover { color: #444444; }
-h5, h5 a, h5 a:hover { color: #444444; }
+h1, h1 a, h1 a:hover, .text-logo #logo { color: #444; }
 h6, h6 a, h6 a:hover,
-a.content_link .title { color: #444444; }
+a.content_link .title { color: #444; }
 
 /* Highlight */
 .dropcap, .highlight:not(.highlight_image) {
@@ -154,24 +150,6 @@ a.mfn-link-2 span:before, a:hover.mfn-link-4:before, a:hover.mfn-link-4:after, a
 }
 a.mfn-link-6:before {
     border-bottom-color: #653920;
-}
-
-/* Shop buttons */
-.woocommerce a.button,
-.woocommerce .quantity input.plus,
-.woocommerce .quantity input.minus {
-    background-color: #f7f7f7 !important;
-    color: #747474 !important;
-}
-
-.woocommerce a.button_theme,
-.woocommerce a.checkout-button,
-.woocommerce button.button,
-.woocommerce input[type="submit"],
-.woocommerce input[type="reset"],
-.woocommerce input[type="button"] {
-    background-color: #2991d6 !important;
-    color: #fff !important;
 }
 
 /* Lists */
@@ -374,29 +352,6 @@ blockquote, blockquote a, blockquote a:hover {
     color: #2991d6;
 }
 
-/* Sliding box */
-.sliding_box .desc_wrapper {
-    background: #2991d6;
-}
-.sliding_box .desc_wrapper:after {
-    border-bottom-color: #2991d6;
-}
-
-/* Counter & Chart */
-.counter .icon_wrapper i {
-    color: #2991d6;
-}
-
-/* Quick facts */
-.quick_fact .number {
-    color: #2991d6;
-}
-
-/* Progress bar */
-.progress_bars .bars_list li .bar .progress {
-    background-color: #2991d6;
-}
-
 /* Icon bar */
 a:hover.icon_bar {
     color: #2991d6 !important;
@@ -428,16 +383,6 @@ a.content_link:after {
     border-color: #2991d6;
 }
 
-/* How it works */
-.how_it_works .image .number {
-    background: #2991d6;
-}
-
-/* Trailer box */
-.trailer_box .desc .subtitle {
-    background-color: #2991d6;
-}
-
 /* Icon box */
 .icon_box .icon_wrapper,
 .icon_box a .icon_wrapper {
@@ -446,14 +391,6 @@ a.content_link:after {
 .icon_box:hover .icon_wrapper:before,
 .icon_box a:hover .icon_wrapper:before {
     background-color: #2991d6;
-}
-
-/* Clients */
-ul.clients.clients_tiles li .client_wrapper:hover:before {
-    background: #2991d6;
-}
-ul.clients.clients_tiles li .client_wrapper:after {
-    border-bottom-color: #2991d6;
 }
 
 /* List */
@@ -489,27 +426,6 @@ table tr:hover td {
     background: #2991d6;
 }
 
-/* Pricing */
-.pricing-box .plan-header .price sup.currency,
-.pricing-box .plan-header .price > span {
-    color: #2991d6;
-}
-.pricing-box .plan-inside ul li .yes {
-    background: #2991d6;
-}
-.pricing-box-box.pricing-box-featured {
-    background: #2991d6;
-}
-
-
-/************************ Shop ************************/
-.woocommerce span.onsale, .shop_slider .shop_slider_ul li .item_wrapper span.onsale {
-    border-top-color: #2991d6 !important;
-}
-.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
-    border-color: #2991d6 !important;
-}
-
 
 /************************ Responsive ************************/
         @media only screen and (max-width: 767px){
@@ -520,9 +436,6 @@ table tr:hover td {
 |  Additional Styles
 |
 |--------------------------------------------------------------------------
-|
-|
-|
 */
 
 /******************* Background ********************/
@@ -542,52 +455,52 @@ html {
 
 body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"],
 input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {
-            font-family: "Roboto", Arial, Tahoma, sans-serif;
+    font-family: "Roboto", Arial, Tahoma, sans-serif;
     font-weight: 400;
 }
 
 #menu > ul > li > a, #header_action_button, #header_cart {
-            font-family: "Roboto", Arial, Tahoma, sans-serif;
+    font-family: "Roboto", Arial, Tahoma, sans-serif;
     font-weight: 400;
 }
 
 #Subheader .title {
-            font-family: "Patua One", Arial, Tahoma, sans-serif;
+    font-family: "Patua One", Arial, Tahoma, sans-serif;
     font-weight: 400;
 }
 
 h1, .text-logo #logo {
-            font-family: "Patua One", Arial, Tahoma, sans-serif;
+    font-family: "Patua One", Arial, Tahoma, sans-serif;
     font-weight: 300;
 }
 
 h2 {
-            font-family: "Patua One", Arial, Tahoma, sans-serif;
+    font-family: "Patua One", Arial, Tahoma, sans-serif;
     font-weight: 300;
 }
 
 h3 {
-            font-family: "Patua One", Arial, Tahoma, sans-serif;
+    font-family: "Patua One", Arial, Tahoma, sans-serif;
     font-weight: 300;
 }
 
 h4 {
-            font-family: "Patua One", Arial, Tahoma, sans-serif;
+    font-family: "Patua One", Arial, Tahoma, sans-serif;
     font-weight: 300;
 }
 
 h5 {
-            font-family: "Roboto", Arial, Tahoma, sans-serif;
+    font-family: "Roboto", Arial, Tahoma, sans-serif;
     font-weight: 700;
 }
 
 h6 {
-            font-family: "Roboto", Arial, Tahoma, sans-serif;
+    font-family: "Roboto", Arial, Tahoma, sans-serif;
     font-weight: 400;
 }
 
 blockquote {
-            font-family: "Patua One", Arial, Tahoma, sans-serif;
+    font-family: "Patua One", Arial, Tahoma, sans-serif;
 }
 
 
@@ -597,7 +510,7 @@ blockquote {
 
 body {
     font-size: 13px;
-            line-height: 21px;
+    line-height: 21px;
 }
 
 #menu > ul > li > a {
@@ -608,32 +521,32 @@ body {
 
 h1, #Subheader .title, .text-logo #logo {
     font-size: 46px;
-            line-height: 46px;
+    line-height: 46px;
 }
 
 h2 {
     font-size: 30px;
-            line-height: 30px;
+    line-height: 30px;
 }
 
 h3 {
     font-size: 25px;
-            line-height: 27px;
+    line-height: 27px;
 }
 
 h4 {
     font-size: 21px;
-            line-height: 25px;
+    line-height: 25px;
 }
 
 h5 {
     font-size: 15px;
-            line-height: 20px;
+    line-height: 20px;
 }
 
 h6 {
     font-size: 13px;
-            line-height: 20px;
+    line-height: 20px;
 }
 
 

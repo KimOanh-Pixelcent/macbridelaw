@@ -8,8 +8,8 @@ $contactClass = $selectedTab === 'contact' ? 'current_page_item' : '';
 <div class="top_bar_left clearfix">
     <div class="logo">
         <a id="logo" href="/" title="MacBride Law">
-            <img class="logo-main scale-with-grid" src="images/MBLogo.png" alt=""/>
-            <img class="logo-sticky scale-with-grid" src="images/MBLogo.png" alt="" />
+            <img class="logo-main scale-with-grid" src="images/MacBrideLaw.png" alt=""/>
+            <img class="logo-sticky scale-with-grid" src="images/MacBrideLaw.png" alt="" />
         </a>
     </div>
     <div class="menu_wrapper">

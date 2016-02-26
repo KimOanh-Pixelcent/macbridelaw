@@ -1,7 +1,7 @@
 <div class="section" style="padding-top:50px; padding-bottom:10px; background-color:; background-image:url(images/home_lawyer_section.jpg); background-repeat:no-repeat; background-position:center top; background-attachment:fixed; background-size:cover; -webkit-background-size:cover" data-stellar-background-ratio="0.5">
 	<div class="section_wrapper clearfix">
 		<div class="items_group clearfix">
-			<div class="column one-fourth column_column ">
+			<div class="column one-third column_column ">
 				<div class="column_attr " >
 					<h3>MacBride Law</h4>
 					<p class="big">
@@ -12,56 +12,15 @@
 					<p style="font-weight: bold;">
 						Available by appointment
 					</p>
-					<table>
-						<tr>
-							<td>Mon-Fri</td><td><b>9:00</b> a.m.</td><td><b>5:00</b> p.m.</td>
-						</tr>
-					</table>
+					<div>Mon-Fri 9:00AM - 5:00PM</div>
 				</div>
 			</div>
-			<div class="column one-second column_column ">
-				<div class="column_attr " >
-					<h3>Send us a message</h4>
-					<div class="wpcf7" id="wpcf7-f43-p36-o1" lang="en-US" dir="ltr">
-						<div class="screen-reader-response"></div>
-						<form name="" action="#" method="post" class="wpcf7-form" novalidate="novalidate">
-							<div style="display: none;">
-								<input type="hidden" name="_wpcf7" value="43" />
-								<input type="hidden" name="_wpcf7_version" value="4.1.1" />
-								<input type="hidden" name="_wpcf7_locale" value="en_US" />
-								<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f43-p36-o1" />
-								<input type="hidden" name="_wpnonce" value="9a88b9cc25" />
-							</div>
-							<div class="column one-second">
-								<span class="wpcf7-form-control-wrap your-name">
-									<input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your name" />
-								</span>
-							</div>
-							<div class="column one-second">
-								<span class="wpcf7-form-control-wrap your-email">
-									<input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your e-mail" />
-								</span>
-							</div>
-							<div class="column one">
-								<span class="wpcf7-form-control-wrap your-subject">
-									<input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Subject" />
-								</span>
-							</div>
-							<div class="column one">
-								<span class="wpcf7-form-control-wrap your-message">																<textarea name="your-message" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span>
-							</div>
-							<div class="column one">
-								<input type="submit" value="Send a message" class="wpcf7-form-control wpcf7-submit" />
-							</div><div class="wpcf7-response-output wpcf7-display-none"></div>
-						</form>
-					</div>
-				</div>
-			</div>
-			<div class="column one-fourth column_column ">
+
+			<div class="column two-third column_column ">
 				<div class="column_attr " >
 					<h3>Contact Us</h4>
 					<p class="big">
-						Please fill out our form to contact us. Mr. MacBride will be in touch at his earliest convenience. At that time,
+						Please give us a call or email us. Mr. MacBride will be in touch at his earliest convenience. At that time,
 						we look forward to discussing your needs and assessing how we can best help you. MacBride Law encourages all
 						potential clients to schedule a consultation or phone conversation with Mr. MacBride in order to determine the best
 						course of action for your needs.
@@ -76,7 +35,7 @@
 		<div class="items_group clearfix">
 			<div class="column one column_column ">
 				<div class="column_attr align_center" >
-					<h2 style="margin: 0; color: #2991d6;">Call us 406-577-2777</h2>
+					<h2 style="margin: 0; color: #2991d6;">Call us at <a href="tel:406-577-2777">406-577-2777</a> &nbsp;&nbsp; Email us at <a href="mailto:wlm@macbridelaw.com">wlm@macbridelaw.com</a></h2>
 				</div>
 			</div>
 		</div>

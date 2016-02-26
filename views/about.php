@@ -1,12 +1,7 @@
 <div class="section " style="padding-top:50px; padding-bottom:20px; background-color:; background-image:url(images/home_lawyer_section.jpg); background-repeat:no-repeat; background-position:center top; background-attachment:fixed; background-size:cover; -webkit-background-size:cover" data-stellar-background-ratio="0.5">
     <div class="section_wrapper clearfix">
         <div class="items_group clearfix">
-            <div class="column one-sixth column_placeholder">
-                <div class="placeholder">
-                    &nbsp;
-                </div>
-            </div>
-            <div class="column two-third column_column ">
+            <div class="column column_column ">
                 <div class="column_attr align_center" >
                     <hr class="no_line hrmargin_b_20" />
                     <h2 style="color: #5F3923;">
@@ -18,7 +13,7 @@
         </div>
     </div>
 </div>
-<div class="section " style="padding-top:50px; padding-bottom:40px; background-color:" >
+<div class="section " style="padding-top:50px; padding-bottom:20px; background-color:" >
     <div class="section_wrapper clearfix">
         <div class="items_group clearfix">
             <div class="column one-second column_column ">

@@ -1,14 +1,21 @@
-<div class="section sections_style_2">
+<div class="section " style="padding-top:50px; padding-bottom:20px; background-color:; background-image:url(images/home_lawyer_section.jpg); background-repeat:no-repeat; background-position:center top; background-attachment:fixed; background-size:cover; -webkit-background-size:cover" data-stellar-background-ratio="0.5">
+    <div class="section_wrapper clearfix">
+        <div class="items_group clearfix">
+            <div class="column column_column ">
+                <div class="column_attr align_center" >
+                    <hr class="no_line hrmargin_b_20" />
+                    <h2 style="color: #5F3923;">
+                        MacBride Law focuses on the needs of our clients while advising them on every aspect of their project.
+                    </h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section sections_style_2" style="padding-top:50px; padding-bottom:20px; background-color:">
 	<div class="section_wrapper clearfix">
 		<div class="items_group clearfix">
-			<div class="column one column_column ">
-				<div class="column_attr align_center" >
-					<h3 style="margin: 0 6%;">MacBride Law focuses on the needs of our clients while advising them on every aspect of their project. </h3>
-				</div>
-			</div>
-			<div class="column one column_divider ">
-				<hr class="no_line hrmargin_b_30"/>
-			</div>
 			<div class="column one-fifth column_image ">
 				<div class="image_frame no_link scale-with-grid alignright no_border" >
 					<div class="image_wrapper"><img class="scale-with-grid" src="images/intellectualproperty.jpg" alt=""/>
