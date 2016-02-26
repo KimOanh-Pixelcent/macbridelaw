@@ -520,8 +520,8 @@ body {
 /* Headings */
 
 h1, #Subheader .title, .text-logo #logo {
-    font-size: 46px;
-    line-height: 46px;
+    font-size: 30px;
+    line-height: 30px;
 }
 
 h2 {

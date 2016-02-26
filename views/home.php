@@ -48,9 +48,9 @@
                                     <div class="items_group clearfix">
                                         <div class="column one column_fancy_heading ">
                                             <div class="fancy_heading fancy_heading_icon">
-                                                <h2 class="title">Montana's leading legal expert in
+                                                <h1 class="title">Montana's leading legal expert in
                                                 <br />
-                                                business, immigration, real estate and natural resource law. </h2>
+                                                business, immigration, real estate and natural resource law. </h1>
                                             </div>
                                         </div>
                                         <div class="column one-second column_list ">

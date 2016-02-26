@@ -4,10 +4,10 @@
             <div class="column column_column ">
                 <div class="column_attr align_center" >
                     <hr class="no_line hrmargin_b_20" />
-                    <h2 style="color: #5F3923;">
+                    <h1 style="color: #5F3923;">
                         Mr. MacBride concentrates his practice in business organization, natural resources, real property, intellectual
                         property (copyrights, trademarks and patents), and business immigration laws.
-                    </h2>
+                    </h1>
                 </div>
             </div>
         </div>
