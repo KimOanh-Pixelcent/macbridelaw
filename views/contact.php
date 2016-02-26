@@ -33,9 +33,11 @@
 	<div class="section " style="padding-top:40px; padding-bottom:0px; background-color:#EACCBB" >
 	<div class="section_wrapper clearfix">
 		<div class="items_group clearfix">
-			<div class="column one column_column ">
-				<div class="column_attr align_center" >
-					<h2 style="margin: 0; color: #2991d6;">Call us at <a href="tel:406-577-2777">406-577-2777</a> &nbsp;&nbsp; Email us at <a href="mailto:wlm@macbridelaw.com">wlm@macbridelaw.com</a></h2>
+			<div class="column one column_column">
+				<div class="column_attr align_center">
+					<h2 class="contact-details" style="margin: 0; color: #2991d6;">
+						Call us at <a href="tel:406-577-2777">406-577-2777</a> <br/> Email us at <a href="mailto:wlm@macbridelaw.com">wlm@macbridelaw.com</a>
+					</h2>
 				</div>
 			</div>
 		</div>
@@ -45,7 +47,6 @@
 	<div class="section_wrapper clearfix">
 		<div class="items_group clearfix">
 			<div class="column one column_map ">
-
 				<div class="google-map-wrapper no_border">
 					<div class="google-map" id="google-map-area" style="width:100%; height:500px;">
 						&nbsp;

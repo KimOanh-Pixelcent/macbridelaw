@@ -21,3 +21,8 @@ body:not(.template-slider) .offer #Header_wrapper {
 h1.title{
     text-align: center;
 }
+@media only screen and (max-width: 767px){
+    .contact-details{
+        font-size: 25px;
+    }
+}
