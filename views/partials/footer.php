@@ -12,7 +12,7 @@
             </aside>
             <aside class="badges">
                 <img src="images/badge_RMMLF.jpg"/>
-                <img src="images/badge_ethics.jpg"/>
+                <img src="images/badge_ethics.png"/>
             </aside>
         </div>
     </div>
@@ -20,7 +20,7 @@
         <div class="container">
             <div class="column one">
                 <div class="copyright">
-                    &copy; 2016 MacBride Law
+                    &copy; <?=date("Y");?> MacBride Law
                 </div>
                 <?= $socialList;?>
             </div>

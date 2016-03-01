@@ -1,4 +1,6 @@
 <?php
+date_default_timezone_set("America/Denver");
+
 require 'flight/Flight.php';
 
 function renderTemplate($templateName, $selectedTab, $subTitle='', $pageType=''){

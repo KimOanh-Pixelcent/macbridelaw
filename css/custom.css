@@ -1,6 +1,9 @@
 #Footer .badges{
     float: right;
 }
+#Footer .badges img{
+    margin-left: 5px;
+}
 #Footer .contact-info{
     float: left;
 }
