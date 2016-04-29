@@ -22,7 +22,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="column three-fourth column_column ">
+			<div id="ip" class="column three-fourth column_column ">
 				<div class="column_attr " >
 					<div style="border-left: 1px solid #ccc; margin-left: 4%; padding: 0px 0px 0px 7%;">
 						<h3>Intellectual Property</h3>
@@ -46,7 +46,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="column three-fourth column_column ">
+			<div id="nr" class="column three-fourth column_column ">
 				<div class="column_attr " >
 					<div style="border-left: 1px solid #ccc; margin-left: 4%; padding: 0px 0px 0px 7%;">
 						<h3>Natural Resources</h3>
@@ -69,7 +69,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="column three-fourth column_column ">
+			<div id="im" class="column three-fourth column_column">
 				<div class="column_attr " >
 					<div style="border-left: 1px solid #ccc; margin-left: 4%; padding: 0px 0px 0px 7%;">
 						<h3>Immigration</h3>
@@ -92,7 +92,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="column three-fourth column_column ">
+			<div id="re" class="column three-fourth column_column ">
 				<div class="column_attr " >
 					<div style="border-left: 1px solid #ccc; margin-left: 4%; padding: 0px 0px 0px 7%;">
 						<h3>Real Estate</h3>

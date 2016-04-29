@@ -54,7 +54,7 @@
                                             </div>
                                         </div>
                                         <div class="column one-second column_list ">
-                                            <div class="list_item lists_2 clearfix">
+                                            <div class="list_item lists_2 clearfix link-ip">
                                                 <div class="animate" data-anim-type="fadeInLeft">
                                                     <div class="list_left list_image"><img src="images/icons/intellectualproperty.png" alt="Intellectual Property" class="scale-with-grid" />
                                                 </div>
@@ -68,7 +68,7 @@
                                             </div>
                                         </div>
                                         <div class="column one-second column_list ">
-                                            <div class="list_item lists_2 clearfix">
+                                            <div class="list_item lists_2 clearfix link-nr">
                                                 <div class="animate" data-anim-type="fadeInDown">
                                                     <div class="list_left list_image"><img src="images/icons/naturalresources.png" alt="Natural Resources" class="scale-with-grid" />
                                                 </div>
@@ -84,8 +84,8 @@
                                         <div class="column one column_divider ">
                                             <hr class="no_line" />
                                         </div>
-                                        <div class="column one-second column_list ">
-                                            <div class="list_item lists_2 clearfix">
+                                        <div class="column one-second column_list">
+                                            <div class="list_item lists_2 clearfix link-im">
                                                 <div class="animate" data-anim-type="fadeInRight">
                                                     <div class="list_left list_image"><img src="images/icons/immigration.png" alt="Immigration" class="scale-with-grid" />
                                                 </div>
@@ -99,7 +99,7 @@
                                             </div>
                                         </div>
                                         <div class="column one-second column_list ">
-                                            <div class="list_item lists_2 clearfix">
+                                            <div class="list_item lists_2 clearfix link-re">
                                                 <div class="animate" data-anim-type="fadeInLeft">
                                                     <div class="list_left list_image"><img src="images/icons/realestate.png" alt="Real Estate" class="scale-with-grid" />
                                                 </div>

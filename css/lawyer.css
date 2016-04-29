@@ -3,6 +3,10 @@
     color: #2991d6;
 }
 
+.lists_2{
+    cursor: pointer;
+}
+
 /********************** Backgrounds **********************/
 #Subheader {
   padding: 0 0 90px;

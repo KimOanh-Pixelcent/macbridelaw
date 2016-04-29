@@ -208,6 +208,22 @@
         mfnSliderShop();
         mfnSliderTestimonials();
 
+        /*
+         * Home page icon click handlers
+         */
+         jQuery('.link-ip').click(function(e){
+            window.location = '/offer#ip';
+         });
+         jQuery('.link-nr').click(function(e){
+            window.location = '/offer#nr';
+         });
+         jQuery('.link-im').click(function(e){
+            window.location = '/offer#im';
+         });
+         jQuery('.link-re').click(function(e){
+            window.location = '/offer#re';
+         });
+
 
         /* ---------------------------------------------------------------------------
          * Responsive menu

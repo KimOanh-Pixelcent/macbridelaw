@@ -19,24 +19,11 @@
 			<div class="column two-third column_column ">
 				<div class="column_attr " >
 					<h3>Contact Us</h3>
-					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                        <input type="hidden" name="cmd" value="_s-xclick">
-                        <input type="hidden" name="hosted_button_id" value="KQU9CYPDN4ZLQ">
-                        <table>
-                            <tr><td>
-                                <input type="hidden" name="on0" value="Copyright and Trademark Class">
-                                <b>Copyright and Trademark Class - $35</b>
-                            </td></tr>
-                        </table>
-                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                    </form>
                     <br/>
 					<p class="big">
-						Please give us a call or email us. Mr. MacBride will be in touch at his earliest convenience. At that time,
-						we look forward to discussing your needs and assessing how we can best help you. MacBride Law encourages all
-						potential clients to schedule a consultation or phone conversation with Mr. MacBride in order to determine the best
-						course of action for your needs.
+						Please give us a call or email us. At that time, we look forward to discussing your needs and assessing how we
+						can best help you. MacBride Law encourages all potential clients to schedule a consultation or phone conversation
+						with Mr. MacBride in order to determine the best course of action for your needs.
 					</p>
 				</div>
 			</div>
