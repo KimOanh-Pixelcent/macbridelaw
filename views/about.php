@@ -38,7 +38,7 @@
                                 company his 11 years of experience as a petroleum geologist, primarily with Pennzoil Company. He believes that his corporate and
                                 practical background is invaluable in providing effective representation to its clients.
                             </p>
-                            <p>
+                            <p class="big">
                                 Bill specializes in business organization, natural resources, real property, intellectual property (copyrights, patents and trademarks)
                                 and immigration laws.
                             </p>
