@@ -31,5 +31,10 @@ Flight::route('/contact', function(){
     renderTemplate('template', 'contact', 'Contact Us', 'page-id-36');
 });
 
+Flight::route('/legal', function(){
+    Flight::render('legal', array(), 'pageContent');
+    renderTemplate('template', 'legal', 'Legal Disclaimers', 'page-id-36');
+});
+
 Flight::start();
 ?>

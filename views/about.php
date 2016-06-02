@@ -5,8 +5,8 @@
                 <div class="column_attr align_center" >
                     <hr class="no_line hrmargin_b_20" />
                     <h1 style="color: #5F3923;">
-                        Mr. MacBride concentrates his practice in business organization, natural resources, real property, intellectual
-                        property (copyrights, trademarks and patents), and business immigration laws.
+                        Mr. MacBride concentrates his practice on client needs, practical advice and affective solutions in the areas of business, natural resources, real estate, intellectual
+                        property, and immigration.
                     </h1>
                 </div>
             </div>
@@ -32,10 +32,15 @@
                         </div>
                         <div class="column one-second">
                             <p class="big">
-                                Prior to founding MacBride Law, Mr. MacBride spend 22 years as a partner at the Helena, MT based firm Gough, Shanahan, Johnson
-                                and Waterman (GSJW). Bill represented Gold Fields Mining Company, Denver, Colorado, as a corporate counsel. He brought to that
+                                Bill is the founder of MacBride Law, PLLC. Prior to founding MacBride Law, Mr. MacBride spend 21 years as a partner at the Helena, MT based firm Gough, Shanahan, Johnson
+                                and Waterman (GSJW). Prior to GSJW, Bill spent 6 years as an Attorney and Landman with Denver, CO based Gold Fields Mining Company, a wholly owned subsidiary of Consolidated Gold Fields of
+                                London, UK, representing Gold Fields in Canada, Taiwan and throughout the US. He brought to that
                                 company his 11 years of experience as a petroleum geologist, primarily with Pennzoil Company. He believes that his corporate and
                                 practical background is invaluable in providing effective representation to its clients.
+                            </p>
+                            <p>
+                                Bill specializes in business organization, natural resources, real property, intellectual property (copyrights, patents and trademarks)
+                                and immigration laws.
                             </p>
                         </div>
                         <hr class="no_line hrmargin_b_1" />
@@ -53,16 +58,15 @@
                             <p class="big">
                                 Bill has authored or co-authored articles for various seminars and publications (in business, intellectual property, Chinese mineral
                                 resources, environmental and patent laws). He has taught environmental, natural resources and business law for the Community College
-                                of Aurora (Colorado) (1991-94), the University of Denver Graduate Studies Program (1993), the University of Montana-Helena, formerly
-                                the Helena College of Technology and Montana Tech, respectively. Between 1996-1998 he organized and presented programs on mineral economic
+                                of Aurora (Colorado) (1991-94), the University of Denver Graduate Studies Program (1993), the University of Montana-Helena, and Montana Tech, respectively. Between 1996-1998 he organized and presented programs on mineral economic
                                 evaluation and mineral interest tenure before the Chinese Ministry of Geology and Mineral Resources in Helena and Beijing.
                             </p>
                         </div>
                         <div class="column one-second">
                             <p class="big">
-                                Bill is a member of the Colorado and Montana Bar Associations; Rocky Mountain Mineral Law Foundation and Rotary International. He
-                                was a co-founder of the City of Helena International Affairs Council and is on the board of the Montana Center for International
-                                Visitors, the Grant-Kohrs Ranch Foundation, and the University of Helena-Montana Foundation Board.
+                                Bill is a member of the Colorado and Montana Bar Associations and a registered patent attorney with the U.S. Patent and Trademark Office. He is an active member of Rocky Mountain
+                                Mineral Law Foundation and Rotary International. He was a co-founder of the City of Helena International Affairs Council and is on the board of the Montana Center for International
+                                Visitors, the Grant-Kohrs Ranch Foundation, and the University of Helena-Montana Foundation Board, as president. Currently, he is also president of the World Montana Board.
                                 <br/>
                                 <br/>
                                 Past clients include: Gold Fields Mining, Peabody Coal Company, Natural Solutions, Montana Hydraulics, Montana Emergent Technologies,
