@@ -5,7 +5,7 @@
                 <div class="column_attr align_center" >
                     <hr class="no_line hrmargin_b_20" />
                     <h1 style="color: #5F3923;">
-                        MacBride Law focuses on the needs of our clients while advising them on every aspect of their project.
+                        MacBride Law focuses on the needs of our clients while advising them on every aspect of their projects.
                     </h1>
                 </div>
             </div>

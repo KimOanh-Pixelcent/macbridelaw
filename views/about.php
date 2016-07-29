@@ -5,7 +5,7 @@
                 <div class="column_attr align_center" >
                     <hr class="no_line hrmargin_b_20" />
                     <h1 style="color: #5F3923;">
-                        Mr. MacBride concentrates his practice on client needs, practical advice and affective solutions in the areas of business, natural resources, real estate, intellectual
+                        Mr. MacBride concentrates his practice on client needs, practical advice and effective solutions in the areas of business, natural resources, real estate, intellectual
                         property, and immigration.
                     </h1>
                 </div>
