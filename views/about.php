@@ -40,7 +40,8 @@
                             </p>
                             <p class="big">
                                 Bill specializes in business organization, natural resources, real property, intellectual property (copyrights, patents and trademarks)
-                                and immigration laws.
+                                and immigration laws. Bill graduated from Colorado School of Mines with a BS in Geological Engineering, from the University of Houston with
+                                an MBA in Finance and from the University of Denver with a JD.
                             </p>
                         </div>
                         <hr class="no_line hrmargin_b_1" />
