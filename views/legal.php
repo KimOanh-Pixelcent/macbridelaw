@@ -9,7 +9,9 @@
                         may only be created by a written agreement specifying the nature of the services and the basis or rate of the
                         attorney's fee to be charged for the specific legal services to be performed. Also, e-mail is not a secure form of
                         communication and any messages transmitted via e-mail may be accessed by unintended third parties. Therefore,
-                        confidential or sensitive information should not be sent to MacBride Law, PLLC via e-mail.
+                        confidential or sensitive information should not be sent to MacBride Law, PLLC via e-mail. No representation is made
+                        that the quality of the legal services to be performed is greater than the quality of legal services performed by
+                        other lawyers.
                     </p>
                     <p class="big">
                         This Firm does not necessarily endorse, and is not responsible for, any third-party content that may be accessed

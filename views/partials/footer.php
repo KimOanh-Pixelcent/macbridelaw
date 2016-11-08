@@ -12,6 +12,7 @@
                 </div>
             </aside>
             <aside class="badges">
+                <a href="https://www.avvo.com/attorneys/59715-mt-william-macbride-1394025.html?utm_campaign=avvo_rating&utm_content=1217583&utm_medium=avvo_badge&utm_source=avvo"><img src="images/badge_avvo.png"/></a>
                 <img src="images/badge_AILA.jpg"/>
                 <img src="images/badge_RMMLF.jpg"/>
                 <img src="images/badge_ethics.png"/>
