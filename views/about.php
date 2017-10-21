@@ -5,8 +5,8 @@
                 <div class="column_attr align_center" >
                     <hr class="no_line hrmargin_b_20" />
                     <h1 style="color: #5F3923;">
-                        Mr. MacBride concentrates his practice on client needs, practical advice and effective solutions in the areas of business, natural resources, real estate, intellectual
-                        property, and immigration.
+                        Mr. MacBride concentrates his practice on client needs, practical advice and effective solutions in the areas of business, natural resources,
+                        real estate, intellectual property, and immigration.
                     </h1>
                 </div>
             </div>
@@ -32,11 +32,11 @@
                         </div>
                         <div class="column one-second">
                             <p class="big">
-                                Bill assists clients to order to meet their business objectives, by providing timely responses in patent, trademarks, mining and other business matters.
+                                Bill assists clients in order to meet their business objectives, by providing timely responses in patent, trademarks, mining and other business matters.
                             </p>
                             <p class="big">
                                 Bill is the founder of MacBride Law, PLLC. He spent 21 years as a partner at the Helena, MT based firm Gough, Shanahan, Johnson
-                                and Waterman, and 6 years as an with Denver based Gold Fields Mining Company, a subsidiary of Consolidated Gold Fields of
+                                and Waterman, and 6 years as an attorney with Denver based Gold Fields Mining Company, a subsidiary of Consolidated Gold Fields of
                                 London, representing Gold Fields in Canada, Taiwan and throughout the US.
                             </p>
                         </div>
@@ -72,7 +72,7 @@
                                 <br/>
                                 <br/>
                                 Past clients include: Gold Fields Mining, Peabody Coal Company, Natural Solutions, Montana Hydraulics, Montana Emergent Technologies,
-                                Newmont Mining, E.K. Lehmann & Assoc., Gallant Natural Resources, CX Ranch, Tempest Technologies, and Vilicus Farms.
+                                Newmont Mining, E.K. Lehmann &amp; Assoc., Gallant Natural Resources, CX Ranch, Tempest Technologies, and Vilicus Farms.
                             </p>
                         </div>
                     </div>
